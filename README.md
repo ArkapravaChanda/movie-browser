@@ -35,7 +35,7 @@ A responsive React application that lets users **browse popular movies**, **sear
 ### Prerequisites
 
 - Node.js & npm installed  
-- TMDb API key ([Sign up here](https://www.themoviedb.org/documentation/api))
+- TMDb API key [NOTE: YOU WILL NEED TO SIGN UP TO USE YOUR OWN API KEY]([Sign up here](https://www.themoviedb.org/documentation/api))
 
 ### Installation
 
